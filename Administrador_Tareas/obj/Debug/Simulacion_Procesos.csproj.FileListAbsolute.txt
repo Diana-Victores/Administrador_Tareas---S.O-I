@@ -1,0 +1,71 @@
+C:\Users\stmar\source\repos\Simulacion_Procesos\bin\Debug\Simulacion_Procesos.exe.config
+C:\Users\stmar\source\repos\Simulacion_Procesos\bin\Debug\Simulacion_Procesos.exe
+C:\Users\stmar\source\repos\Simulacion_Procesos\bin\Debug\Simulacion_Procesos.pdb
+C:\Users\stmar\source\repos\Simulacion_Procesos\obj\Debug\Simulacion_Procesos.csprojAssemblyReference.cache
+C:\Users\stmar\source\repos\Simulacion_Procesos\obj\Debug\Simulacion_Procesos.Form1.resources
+C:\Users\stmar\source\repos\Simulacion_Procesos\obj\Debug\Simulacion_Procesos.Properties.Resources.resources
+C:\Users\stmar\source\repos\Simulacion_Procesos\obj\Debug\Simulacion_Procesos.csproj.GenerateResource.cache
+C:\Users\stmar\source\repos\Simulacion_Procesos\obj\Debug\Simulacion_Procesos.csproj.CoreCompileInputs.cache
+C:\Users\stmar\source\repos\Simulacion_Procesos\obj\Debug\Simulacion_Procesos.exe
+C:\Users\stmar\source\repos\Simulacion_Procesos\obj\Debug\Simulacion_Procesos.pdb
+C:\Users\Tefa\Desktop\Simulacion_Procesos\bin\Debug\Simulacion_Procesos.exe.config
+C:\Users\Tefa\Desktop\Simulacion_Procesos\obj\Debug\Simulacion_Procesos.exe
+C:\Users\Tefa\Desktop\Simulacion_Procesos\obj\Debug\Simulacion_Procesos.pdb
+C:\Users\Tefa\Desktop\Simulacion_Procesos\bin\Debug\Simulacion_Procesos.exe
+C:\Users\Tefa\Desktop\Simulacion_Procesos\bin\Debug\Simulacion_Procesos.pdb
+C:\Users\Tefa\Desktop\Simulacion_Procesos\obj\Debug\Simulacion_Procesos.csprojResolveAssemblyReference.cache
+C:\Users\Tefa\Desktop\Simulacion_Procesos\obj\Debug\Simulacion_Procesos.Form1.resources
+C:\Users\Tefa\Desktop\Simulacion_Procesos\obj\Debug\Simulacion_Procesos.Properties.Resources.resources
+C:\Users\Tefa\Desktop\Simulacion_Procesos\obj\Debug\Simulacion_Procesos.csproj.GenerateResource.Cache
+C:\Users\TheVolts\SO_1\Simulacion_Procesos\bin\Debug\Simulacion_Procesos.exe.config
+C:\Users\TheVolts\SO_1\Simulacion_Procesos\obj\Debug\Simulacion_Procesos.exe
+C:\Users\TheVolts\SO_1\Simulacion_Procesos\obj\Debug\Simulacion_Procesos.pdb
+C:\Users\TheVolts\SO_1\Simulacion_Procesos\bin\Debug\Simulacion_Procesos.exe
+C:\Users\TheVolts\SO_1\Simulacion_Procesos\bin\Debug\Simulacion_Procesos.pdb
+C:\Users\TheVolts\SO_1\Simulacion_Procesos\obj\Debug\Simulacion_Procesos.csprojResolveAssemblyReference.cache
+C:\Users\TheVolts\SO_1\Simulacion_Procesos\obj\Debug\Simulacion_Procesos.Form1.resources
+C:\Users\TheVolts\SO_1\Simulacion_Procesos\obj\Debug\Simulacion_Procesos.Properties.Resources.resources
+C:\Users\TheVolts\SO_1\Simulacion_Procesos\obj\Debug\Simulacion_Procesos.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Universidad Agus UMG\6to Ciclo\Sistemas Operativos\Simulacion_Procesos\bin\Debug\Simulacion_Procesos.exe.config
+C:\Users\User\Documents\Universidad Agus UMG\6to Ciclo\Sistemas Operativos\Simulacion_Procesos\obj\Debug\Simulacion_Procesos.exe
+C:\Users\User\Documents\Universidad Agus UMG\6to Ciclo\Sistemas Operativos\Simulacion_Procesos\obj\Debug\Simulacion_Procesos.pdb
+C:\Users\User\Documents\Universidad Agus UMG\6to Ciclo\Sistemas Operativos\Simulacion_Procesos\bin\Debug\Simulacion_Procesos.exe
+C:\Users\User\Documents\Universidad Agus UMG\6to Ciclo\Sistemas Operativos\Simulacion_Procesos\bin\Debug\Simulacion_Procesos.pdb
+C:\Users\User\Documents\Universidad Agus UMG\6to Ciclo\Sistemas Operativos\Simulacion_Procesos\obj\Debug\Simulacion_Procesos.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Universidad Agus UMG\6to Ciclo\Sistemas Operativos\Simulacion_Procesos\obj\Debug\Simulacion_Procesos.Form1.resources
+C:\Users\User\Documents\Universidad Agus UMG\6to Ciclo\Sistemas Operativos\Simulacion_Procesos\obj\Debug\Simulacion_Procesos.Properties.Resources.resources
+C:\Users\User\Documents\Universidad Agus UMG\6to Ciclo\Sistemas Operativos\Simulacion_Procesos\obj\Debug\Simulacion_Procesos.csproj.GenerateResource.Cache
+C:\Users\User\SO_1\Simulacion_Procesos\bin\Debug\Simulacion_Procesos.exe.config
+C:\Users\User\SO_1\Simulacion_Procesos\obj\Debug\Simulacion_Procesos.exe
+C:\Users\User\SO_1\Simulacion_Procesos\obj\Debug\Simulacion_Procesos.pdb
+C:\Users\stmar\SO_1\Simulacion_Procesos\bin\Debug\Simulacion_Procesos.exe.config
+C:\Users\stmar\SO_1\Simulacion_Procesos\bin\Debug\Simulacion_Procesos.exe
+C:\Users\stmar\SO_1\Simulacion_Procesos\bin\Debug\Simulacion_Procesos.pdb
+C:\Users\stmar\SO_1\Simulacion_Procesos\obj\Debug\Simulacion_Procesos.csprojAssemblyReference.cache
+C:\Users\stmar\SO_1\Simulacion_Procesos\obj\Debug\Simulacion_Procesos.Form1.resources
+C:\Users\stmar\SO_1\Simulacion_Procesos\obj\Debug\Simulacion_Procesos.Properties.Resources.resources
+C:\Users\stmar\SO_1\Simulacion_Procesos\obj\Debug\Simulacion_Procesos.csproj.GenerateResource.cache
+C:\Users\stmar\SO_1\Simulacion_Procesos\obj\Debug\Simulacion_Procesos.csproj.CoreCompileInputs.cache
+C:\Users\stmar\SO_1\Simulacion_Procesos\obj\Debug\Simulacion_Procesos.exe
+C:\Users\stmar\SO_1\Simulacion_Procesos\obj\Debug\Simulacion_Procesos.pdb
+C:\Users\stmar\SO_1\Simulacion_Procesos\bin\Debug\MetroFramework.Design.dll
+C:\Users\stmar\SO_1\Simulacion_Procesos\bin\Debug\MetroFramework.dll
+C:\Users\stmar\SO_1\Simulacion_Procesos\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\stmar\SO_1\Simulacion_Procesos\obj\Debug\Simulacion_Procesos.csproj.CopyComplete
+C:\Users\TheVolts\SO_1\Simulacion_Procesos\bin\Debug\MetroFramework.Design.dll
+C:\Users\TheVolts\SO_1\Simulacion_Procesos\bin\Debug\MetroFramework.dll
+C:\Users\TheVolts\SO_1\Simulacion_Procesos\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Diana\Desktop\SO PROYECTO\SISTEMAS OPERATIVOS\SO_1\Administrador_Tareas\bin\Debug\Simulacion_Procesos.exe.config
+C:\Users\Diana\Desktop\SO PROYECTO\SISTEMAS OPERATIVOS\SO_1\Administrador_Tareas\bin\Debug\Simulacion_Procesos.exe
+C:\Users\Diana\Desktop\SO PROYECTO\SISTEMAS OPERATIVOS\SO_1\Administrador_Tareas\bin\Debug\Simulacion_Procesos.pdb
+C:\Users\Diana\Desktop\SO PROYECTO\SISTEMAS OPERATIVOS\SO_1\Administrador_Tareas\bin\Debug\MetroFramework.Design.dll
+C:\Users\Diana\Desktop\SO PROYECTO\SISTEMAS OPERATIVOS\SO_1\Administrador_Tareas\bin\Debug\MetroFramework.dll
+C:\Users\Diana\Desktop\SO PROYECTO\SISTEMAS OPERATIVOS\SO_1\Administrador_Tareas\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Diana\Desktop\SO PROYECTO\SISTEMAS OPERATIVOS\SO_1\Administrador_Tareas\obj\Debug\Simulacion_Procesos.csproj.AssemblyReference.cache
+C:\Users\Diana\Desktop\SO PROYECTO\SISTEMAS OPERATIVOS\SO_1\Administrador_Tareas\obj\Debug\Simulacion_Procesos.Form1.resources
+C:\Users\Diana\Desktop\SO PROYECTO\SISTEMAS OPERATIVOS\SO_1\Administrador_Tareas\obj\Debug\Simulacion_Procesos.Properties.Resources.resources
+C:\Users\Diana\Desktop\SO PROYECTO\SISTEMAS OPERATIVOS\SO_1\Administrador_Tareas\obj\Debug\Simulacion_Procesos.csproj.GenerateResource.cache
+C:\Users\Diana\Desktop\SO PROYECTO\SISTEMAS OPERATIVOS\SO_1\Administrador_Tareas\obj\Debug\Simulacion_Procesos.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Desktop\SO PROYECTO\SISTEMAS OPERATIVOS\SO_1\Administrador_Tareas\obj\Debug\Simulacion_Procesos.csproj.CopyComplete
+C:\Users\Diana\Desktop\SO PROYECTO\SISTEMAS OPERATIVOS\SO_1\Administrador_Tareas\obj\Debug\Simulacion_Procesos.exe
+C:\Users\Diana\Desktop\SO PROYECTO\SISTEMAS OPERATIVOS\SO_1\Administrador_Tareas\obj\Debug\Simulacion_Procesos.pdb
