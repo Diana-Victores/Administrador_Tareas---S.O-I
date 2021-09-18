@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using System.Runtime.InteropServices;
 using System.Diagnostics;
 
-
+//********************** ESTE PROYECTO FUE REALIZADO GRUPALMENTE 
 //****************************************** DIANA VICTORES SIMULADOR/ ADMINISTRADOR DE TAREAS ********************************
 namespace Simulacion_Procesos 
 {
