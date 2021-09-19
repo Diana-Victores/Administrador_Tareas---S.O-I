@@ -69,3 +69,17 @@ C:\Users\Diana\Desktop\SO PROYECTO\SISTEMAS OPERATIVOS\SO_1\Administrador_Tareas
 C:\Users\Diana\Desktop\SO PROYECTO\SISTEMAS OPERATIVOS\SO_1\Administrador_Tareas\obj\Debug\Simulacion_Procesos.csproj.CopyComplete
 C:\Users\Diana\Desktop\SO PROYECTO\SISTEMAS OPERATIVOS\SO_1\Administrador_Tareas\obj\Debug\Simulacion_Procesos.exe
 C:\Users\Diana\Desktop\SO PROYECTO\SISTEMAS OPERATIVOS\SO_1\Administrador_Tareas\obj\Debug\Simulacion_Procesos.pdb
+C:\Users\Diana\Desktop\SO PROYECTO\SISTEMAS OPERATIVOS\SO_1\Administrador_Tareas---S.O-I\Administrador_Tareas\bin\Debug\Simulacion_Procesos.exe.config
+C:\Users\Diana\Desktop\SO PROYECTO\SISTEMAS OPERATIVOS\SO_1\Administrador_Tareas---S.O-I\Administrador_Tareas\bin\Debug\Simulacion_Procesos.exe
+C:\Users\Diana\Desktop\SO PROYECTO\SISTEMAS OPERATIVOS\SO_1\Administrador_Tareas---S.O-I\Administrador_Tareas\bin\Debug\Simulacion_Procesos.pdb
+C:\Users\Diana\Desktop\SO PROYECTO\SISTEMAS OPERATIVOS\SO_1\Administrador_Tareas---S.O-I\Administrador_Tareas\bin\Debug\MetroFramework.Design.dll
+C:\Users\Diana\Desktop\SO PROYECTO\SISTEMAS OPERATIVOS\SO_1\Administrador_Tareas---S.O-I\Administrador_Tareas\bin\Debug\MetroFramework.dll
+C:\Users\Diana\Desktop\SO PROYECTO\SISTEMAS OPERATIVOS\SO_1\Administrador_Tareas---S.O-I\Administrador_Tareas\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Diana\Desktop\SO PROYECTO\SISTEMAS OPERATIVOS\SO_1\Administrador_Tareas---S.O-I\Administrador_Tareas\obj\Debug\Simulacion_Procesos.csproj.AssemblyReference.cache
+C:\Users\Diana\Desktop\SO PROYECTO\SISTEMAS OPERATIVOS\SO_1\Administrador_Tareas---S.O-I\Administrador_Tareas\obj\Debug\Simulacion_Procesos.Form1.resources
+C:\Users\Diana\Desktop\SO PROYECTO\SISTEMAS OPERATIVOS\SO_1\Administrador_Tareas---S.O-I\Administrador_Tareas\obj\Debug\Simulacion_Procesos.Properties.Resources.resources
+C:\Users\Diana\Desktop\SO PROYECTO\SISTEMAS OPERATIVOS\SO_1\Administrador_Tareas---S.O-I\Administrador_Tareas\obj\Debug\Simulacion_Procesos.csproj.GenerateResource.cache
+C:\Users\Diana\Desktop\SO PROYECTO\SISTEMAS OPERATIVOS\SO_1\Administrador_Tareas---S.O-I\Administrador_Tareas\obj\Debug\Simulacion_Procesos.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Desktop\SO PROYECTO\SISTEMAS OPERATIVOS\SO_1\Administrador_Tareas---S.O-I\Administrador_Tareas\obj\Debug\Simulacion_Procesos.csproj.CopyComplete
+C:\Users\Diana\Desktop\SO PROYECTO\SISTEMAS OPERATIVOS\SO_1\Administrador_Tareas---S.O-I\Administrador_Tareas\obj\Debug\Simulacion_Procesos.exe
+C:\Users\Diana\Desktop\SO PROYECTO\SISTEMAS OPERATIVOS\SO_1\Administrador_Tareas---S.O-I\Administrador_Tareas\obj\Debug\Simulacion_Procesos.pdb
